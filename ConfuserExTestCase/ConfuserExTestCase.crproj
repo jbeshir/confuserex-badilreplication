@@ -1,0 +1,6 @@
+<project outputDir="C:\Users\John\Documents\Visual Studio 2015\Projects\ConfuserExTestCase\ConfuserExTestCase\bin\Debug\Confused" baseDir="C:\Users\John\Documents\Visual Studio 2015\Projects\ConfuserExTestCase\ConfuserExTestCase\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" inherit="false">
+    <protection id="ctrl flow" />
+  </rule>
+  <module path="ConfuserExTestCase.exe" />
+</project>
